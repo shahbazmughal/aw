@@ -1,0 +1,2 @@
+# aw
+Activate with PowerShell
